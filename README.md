@@ -1,4 +1,4 @@
-<img src="./readme-suporte/logo_completa.svg" width="310"  align="left">
+<img src="./readme-suporte/logo_completa.svg" width="310">
 
 <hr>
 <h1 align="center">📝Projeto Lobo</h1>
