@@ -2,7 +2,7 @@
 
 <hr>
 <h1 align="center">📝Projeto Lobo</h1>
-<p>Você poderá ver o projeto online clicando <a href="https://rodrigosouzasilva.github.io/Projeto_Lobo/">AQUI</a></p>
+<p>Você poderá visualizar o projeto online clicando <a href="https://rodrigosouzasilva.github.io/Projeto_Lobo/">AQUI</a></p>
 <img src="./readme-suporte/header-lobo.png">
 
 <div style="display: flex;align-items: center;">
@@ -19,9 +19,9 @@
 <h1 align="center">🚀Linguagens Utilizadas</h1>
 
 <p align="center">
-<img display="inline-block" height="150"  width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
+<img height="150"  width="150"  src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
 <img height="150" width="120"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-</p>
+
 
 
 <h2 align="center">👨‍💻Curtiu o repositório? Fique à vontade para fazer uso dele!</h2>
